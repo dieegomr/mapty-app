@@ -1,6 +1,6 @@
 <h1>Aplicativo Mapty 🏃🏻‍♂️🚴🏽‍♂️</h1>
 
-<p><a href="https://github.com/dieegomr/mapty-app/blob/main/README_pt-BR.md">README.md</a> in English</p>
+<p><a href="https://github.com/dieegomr/mapty-app/blob/main/README.md">README.md</a> in English</p>
 <p>
 Este é um aplicativo onde o usuário pode registrar seus treinos clicando no mapa e preenchendo o formulário. É possível registrar dois tipos de treino: corrida ou ciclismo.</p>
 <p>O aplicativo Mapty faz parte do <a href="https://www.udemy.com/course/the-complete-javascript-course/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.BR_ti.8322&utm_content= deal4584&utm_term=_._ag_108455848694_._ad_467154447027_._kw__._de_c_._dm__._pl__._ti_dsa-774930035449_._li_1031586_._pd__._&matchtype=&gclid=CjwKCAjw14uVBhBEEiwAaufYx9TbRKLGzNDmGQA8PAaGk99qGom4VgQpkeWedZuxHN_Cs1e6m0LX0BoCUJQQAvD_BwE">"The complete JavaScript Course 2022: From Zero to Expert"</a>.</ p>
