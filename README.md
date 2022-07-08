@@ -4,7 +4,7 @@
 <p>
 This is an application where the user can log their workouts by clicking on the map and filling out the form. It is possible to log two types of workouts: Running or Cycling.</p>
 <p>Mapty app is part of <a href="https://www.udemy.com/course/the-complete-javascript-course/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.BR_ti.8322&utm_content=deal4584&utm_term=_._ag_108455848694_._ad_467154447027_._kw__._de_c_._dm__._pl__._ti_dsa-774930035449_._li_1031586_._pd__._&matchtype=&gclid=CjwKCAjw14uVBhBEEiwAaufYx9TbRKLGzNDmGQA8PAaGk99qGom4VgQpkeWedZuxHN_Cs1e6m0LX0BoCUJQQAvD_BwE">"The complete JavaScript Course 2022: From Zero to Expert"</a>.</p>
-<p>The idea to build the website was to practice OOP (Object-Oriented Programming), geolocation, use of external libraries, consume of API and more.
+<p>The idea to build the website was to practice OOP (Object-Oriented Programming), geolocation, use of external libraries and more.
 </p>
 
 <p>
@@ -19,13 +19,11 @@ The HTML and CSS were ready, but it was necessary to follow the flowchart bellow
 
 <h3>Some features used:</h3>
 <ul>
-<li>Smooth scrooling using <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView">element.scrollIntoView()</a></li>
-<li>Event Delegation</li>
-<li>Tabbed Component</li>
-<li>Use of <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset">dataset property</a> to access custom data attributes (data-*) on elements</li>
-<li>Sticky Navbar using <a href="https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API">Intersection Observer API</a></li>
-<li>Revealing Contents on scroll also using <a href="https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API">Intersection Observer API</a></li>
-<li>Slider Component</li>
+<li>Displaying a map using Leaflet Library</li>
+<li>Displaying a map marker</li>
+<li>Rendering workout input form</li>
+<li>Use of classes to managing datas</li>
+<li>Use of local storage</li>
 </ul>
 
 <h3>Sample:</h3>
